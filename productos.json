@@ -1,0 +1,8 @@
+[
+    {"title":"Correa","price":3500,"image":"https://dami2390.github.io/mascotasfelices/img/accesorio3.png","id":1},
+    {"title":"Pelota","price":800,"thumbnail":"https://dami2390.github.io/mascotasfelices/img/accesorio6.png","id":3},
+    {"title":"Juguete Perro 1","price":3000,"id":3},
+    {"title":"Juguete Perro 2","price":4000,"id":4},
+    {"title":"Juguete Perro 3","price":5000,"id":5}
+
+]

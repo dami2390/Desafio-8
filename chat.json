@@ -1,0 +1,33 @@
+[
+  {
+    "email": "damian@gmail.com",
+    "message": "Hola amigos, todo bien?",
+    "date": "12/06/2022, 01:40:00 AM",
+    "id": 1
+  },
+  {
+    "email": "juan@gmail.com",
+    "message": "Todo bien, trabajando duro. Y vos?",
+    "date": "12/06/2022, 01:41:00 AM",
+    "id": 2
+  },
+  {
+    "email": "damian@gmail.com",
+    "message": "Tambien, aprendiendo en CODERHOUSE",
+    "date": "12/06/2022, 01:42:00 AM",
+    "id": 3
+  },
+  {
+    "email": "juan@gmail.com",
+    "message": "Buenisimo",
+    "date": "12/06/2022, 01:43:00 AM",
+    "id": 4
+  },
+  
+  {
+    "email": "damian@gmail.com",
+    "message": "Adios!",
+    "date": "12/06/2022, 01:44:00 AM",
+    "id": 6
+  }
+]
